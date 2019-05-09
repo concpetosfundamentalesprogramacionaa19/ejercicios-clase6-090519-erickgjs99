@@ -42,32 +42,32 @@ public class UsoSwitch5 {
             case 'g':
             case 'G':
                 System.out.printf("Su placa %s es del Guayas %s\n", 
-                        valor, placa.toLowerCase());
+                        valor, placa.toUpperCase());
                 break;    
                 
                  case 'r':
             case 'R':
                 System.out.printf("Su placa %s es de Los Rios %s\n", 
-                        valor, placa.toLowerCase());
+                        valor, placa.toUpperCase());
                 break;   
                 
                  case 'm':
             case 'M':
                 System.out.printf("Su placa %s es de Manabi %s\n", 
-                        valor, placa.toLowerCase());
+                        valor, placa.toUpperCase());
                 break;    
                 
                  case 'y':
             case 'Y':
                 System.out.printf("Su placa %s es de Santa Elena %s\n", 
-                        valor, placa.toLowerCase());
+                        valor, placa.toUpperCase());
                 break;    
                 
                  case 'j':
             case 'J':
                 System.out.printf("Su placa %s es de Santo DOmingo de los "
                         + "Tsachilas %s\n", 
-                        valor, placa.toLowerCase());
+                        valor, placa.toUpperCase());
                 break;  
                 
                 
